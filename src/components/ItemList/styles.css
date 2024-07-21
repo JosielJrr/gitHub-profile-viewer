@@ -1,0 +1,23 @@
+.item-list {
+    margin: 24px 0;
+}
+
+.item-list h4 {
+    color: #539BF5;
+    font-size: 1.5rem;
+}
+
+a {
+    text-decoration: none;
+    color: #999999;
+    font-size: .9rem;
+}
+
+a:hover {
+    color: #FFF;
+}
+.item-list p {
+    color: #999999;
+    font-size: 0.75rem;
+    margin: 24px 0;
+}
