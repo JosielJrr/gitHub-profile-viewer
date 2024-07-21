@@ -20,6 +20,27 @@ Este projeto é uma aplicação React que exibe informações sobre o perfil de 
 - CSS
 - GitHub API
 
+## Instalação
+
+Para executar este projeto localmente, siga os seguintes passos:
+
+1. Clone o repositório:
+    ```bash
+    git clone https://github.com/JosielJrr/gitHub-profile-viewer.git
+    ```
+2. Navegue para o diretório do projeto:
+    ```bash
+    cd gitHub-profile-viewer
+    ```
+3. Instale as dependências:
+    ```bash
+    npm install
+    ```
+4. Inicie o servidor de desenvolvimento:
+    ```bash
+    npm start
+    ```
+
 ## Scripts Disponíveis
 
 No diretório do projeto, você pode executar:
