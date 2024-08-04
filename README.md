@@ -51,4 +51,4 @@ No diretório do projeto, você pode executar:
 - `npm run eject`: Remove as dependências de configuração e permite personalizar o setup (opcional).
 
 ## Nota Adicional
-- Este projeto foi desenvolvido na Formação React Developer da Digital Innovation One.
+- Este projeto foi desenvolvido na Formação React Developer da [Digital Innovation One](https://www.dio.me/).
