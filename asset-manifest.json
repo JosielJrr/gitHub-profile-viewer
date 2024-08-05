@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/gitHub-profile-viewer/static/css/main.c1785b98.css",
+    "main.js": "/gitHub-profile-viewer/static/js/main.ce10471c.js",
+    "index.html": "/gitHub-profile-viewer/index.html",
+    "main.c1785b98.css.map": "/gitHub-profile-viewer/static/css/main.c1785b98.css.map",
+    "main.ce10471c.js.map": "/gitHub-profile-viewer/static/js/main.ce10471c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1785b98.css",
+    "static/js/main.ce10471c.js"
+  ]
+}
