@@ -1,6 +1,6 @@
 import './styles.css';
 
-function ItemList({ title, description, link }) {
+export const ItemList = ({ title, link, description }) => {
     return (
         <div className='item-list'>
             <h4>{title}</h4>
@@ -11,4 +11,3 @@ function ItemList({ title, description, link }) {
     )
 }
 
-export default ItemList;

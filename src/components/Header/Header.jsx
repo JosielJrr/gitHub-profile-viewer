@@ -1,6 +1,6 @@
 import './styles.css';
 
-function Header() {
+export const Header = () => {
     return (
         <header>
             <h1>GitFind</h1>
@@ -8,4 +8,3 @@ function Header() {
     )
 }
 
-export { Header };
