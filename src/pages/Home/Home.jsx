@@ -38,7 +38,7 @@ export const Home = () => {
         <img src={background} className='background' alt="Ícone do GitHub" />
         <div className='infos'>
           <div>
-            <div>
+            <div className='search'>
               <input
                 name='user'
                 value={user}                                // Valor do input vinculado ao estado user

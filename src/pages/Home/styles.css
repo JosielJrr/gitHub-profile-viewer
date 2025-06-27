@@ -4,6 +4,10 @@
     align-items: flex-start;
 }
 
+.search {
+    display: flex;
+}
+
 .background {
     display: none;
 }
